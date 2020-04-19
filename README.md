@@ -16,6 +16,8 @@ This is a simple web project, deployment can be any web server or even local fil
 
 ## How To Contirbute
 
+Please fork this repository and then issue Pull Requests review.
+
 ### Copyright
 
 2020 Git.Training
